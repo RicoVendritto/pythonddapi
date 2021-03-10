@@ -1,3 +1,7 @@
+# custom
+env.py
+get_monitors_curl.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
